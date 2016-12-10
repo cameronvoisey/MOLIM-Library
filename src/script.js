@@ -14,7 +14,7 @@ const molecules = [
             {value: "Na", sub: 1},
             {value: "H", sub: 1}
         ],
-        name: "Molecule1",
+        name: "NaH",
         numberOfAtoms: "2",
 
         potentialEnergySurface: {
@@ -40,7 +40,7 @@ const molecules = [
             {value: "S", sub: 1},
             {value: "O", sub: 2}
         ],
-        name: "Molecule2",
+        name: "SO2",
         numberOfAtoms: "3",
 
         potentialEnergySurface: {
@@ -79,7 +79,7 @@ const molecules = [
             {value: "C", sub: 1},
             {value: "O", sub: 2}
         ],
-        name: "Molecule3",
+        name: "CO2",
         numberOfAtoms: "3",
 
         potentialEnergySurface: {
@@ -118,7 +118,7 @@ const molecules = [
             {value: "H", sub: 2},
             {value: "O", sub: 1},
         ],
-        name: "Molecule4",
+        name: "H20",
         numberOfAtoms: "3",
 
         potentialEnergySurface: {
@@ -222,7 +222,7 @@ const molecules = [
         molecule: [
             {value: "H", sub: 3},
         ],
-        name: "Molecule5",
+        name: "H3",
         numberOfAtoms: "3",
 
         potentialEnergySurface: {
@@ -249,7 +249,7 @@ const molecules = [
             {value: "O", sub: 1},
 
         ],
-        name: "Molecule6",
+        name: "HDO",
         numberOfAtoms: "3",
 
         potentialEnergySurface: {
@@ -274,7 +274,7 @@ const molecules = [
             {value: "H", sub: 2},
             {value: "S", sub: 1},
         ],
-        name: "Molecule7",
+        name: "H2S",
         numberOfAtoms: "3",
 
         potentialEnergySurface: {
@@ -316,7 +316,7 @@ const molecules = [
             {value: "H-CO (X", sup: 2},
             {value: "A')", sub: "1"},
         ],
-        name: "Molecule8",
+        name: "H-CO(X2A')",
         numberOfAtoms: "3",
 
         potentialEnergySurface: {
@@ -341,7 +341,7 @@ const molecules = [
             {value: "He-", sub: "1"},
             {value: "O", sub: "2"},
         ],
-        name: "Molecule100",
+        name: "He-O2",
         numberOfAtoms: "3",
 
         potentialEnergySurface: {
@@ -366,7 +366,7 @@ const molecules = [
             {value: "H", sub: "3"},
             {value: "", sup: "+"}
         ],
-        name: "Molecule9",
+        name: "H3+",
         numberOfAtoms: "3",
 
         potentialEnergySurface: {
@@ -391,7 +391,7 @@ const molecules = [
             {value: "H", sub: "2"},
             {value: "CO", sub: "1"},
         ],
-        name: "Molecule10",
+        name: "H2CO",
         numberOfAtoms: "4",
 
         potentialEnergySurface: {
@@ -416,7 +416,7 @@ const molecules = [
             {value: "H", sub: "2"},
             {value: "CS", sub: "1"},
         ],
-        name: "Molecule11",
+        name: "H2CS",
         numberOfAtoms: "4",
 
         potentialEnergySurface: {
@@ -454,7 +454,7 @@ const molecules = [
         molecule: [
             {value: "H", sub: "4"},
         ],
-        name: "Molecule12",
+        name: "H4",
         numberOfAtoms: "4",
 
         potentialEnergySurface: {
@@ -478,7 +478,7 @@ const molecules = [
         molecule: [
             {value: "HSOH", sub: "1"},
         ],
-        name: "Molecule13",
+        name: "HSOH",
         numberOfAtoms: "4",
 
         potentialEnergySurface: {
@@ -517,7 +517,7 @@ const molecules = [
             {value: "N", sub: "1"},
             {value: "H", sub: "3"},
         ],
-        name: "Molecule14",
+        name: "NH3",
         numberOfAtoms: "4",
 
         potentialEnergySurface: {
@@ -554,7 +554,7 @@ const molecules = [
             {value: "C", sub: "1"},
             {value: "H", sub: "3"},
         ],
-        name: "Molecule15",
+        name: "CH3",
         numberOfAtoms: "4",
 
         potentialEnergySurface: {
@@ -579,7 +579,7 @@ const molecules = [
             {value: "Sb", sub: "1"},
             {value: "H", sub: "3"},
         ],
-        name: "Molecule16",
+        name: "SbH3",
         numberOfAtoms: "4",
 
         potentialEnergySurface: {},
@@ -607,7 +607,7 @@ const molecules = [
             {value: "S", sub: "1"},
             {value: "O", sub: "3"},
         ],
-        name: "Molecule17",
+        name: "SO3",
         numberOfAtoms: "4",
 
         potentialEnergySurface: {
@@ -647,7 +647,7 @@ const molecules = [
             {value: "O-", sub: "1"},
             {value: "He", sub: "1"}
         ],
-        name: "Molecule18",
+        name: "N2O-He",
         numberOfAtoms: "4",
 
         potentialEnergySurface: {
@@ -672,7 +672,7 @@ const molecules = [
             {value: "C", sub: "1"},
             {value: "H", sub: "4"},
         ],
-        name: "Molecule19",
+        name: "CH4",
         numberOfAtoms: "5",
 
         potentialEnergySurface: {
@@ -711,7 +711,7 @@ const molecules = [
             {value: "Si", sub: "1"},
             {value: "H", sub: "4"},
         ],
-        name: "Molecule20",
+        name: "SiH4",
         numberOfAtoms: "5",
 
         potentialEnergySurface: {
@@ -751,7 +751,7 @@ const molecules = [
             {value: "H", sub: "3"},
             {value: "Cl", sub: "1"},
         ],
-        name: "Molecule21",
+        name: "CH3Cl",
         numberOfAtoms: "5",
 
         potentialEnergySurface: {
@@ -792,7 +792,7 @@ const molecules = [
             {value: "C", sub: "1"},
             {value: "O", sub: "2"},
         ],
-        name: "Molecule22",
+        name: "H2O-CO2",
         numberOfAtoms: "6",
 
         potentialEnergySurface: {
@@ -822,7 +822,7 @@ const molecules = [
             {value: "C", sub: "1"},
 
         ],
-        name: "Molecule23",
+        name: "HCN-HNC",
         numberOfAtoms: "6",
 
         potentialEnergySurface: {
